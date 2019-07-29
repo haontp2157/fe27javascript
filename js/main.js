@@ -4,8 +4,9 @@
 */
 
 // var nhanVien = new NhanVien("");
+
 function themNgDung(){
-    console.log("Them ng dung");
+    console.log("them nguoi dung ntphao2");
 }
 
 var mangNV = [];
