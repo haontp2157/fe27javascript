@@ -4,7 +4,9 @@
 */
 
 // var nhanVien = new NhanVien("");
-
+function themNgDung(){
+    console.log("Them ng dung");
+}
 
 var mangNV = [];
 var validation = new Validation();
