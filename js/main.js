@@ -5,6 +5,9 @@
 
 // var nhanVien = new NhanVien("");
 
+function themNgDung(){
+    console.log("them nguoi dung ntphao2");
+}
 
 var mangNV = [];
 var validation = new Validation();
